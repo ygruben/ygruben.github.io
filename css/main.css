@@ -5,10 +5,8 @@ body {
 }
 nav ul, footer ul {
     font-family:'signo', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
     font-weight: 'regular';
-    font-color: #c7281f
+    font-color: #f4f4f5
 }
 nav ul li, footer ul li {
     box-sizing: border-box;
@@ -31,14 +29,14 @@ h1 {
     font-weight: 400;
     font-style: 'normal';
     font-size: 6em;
-    font-color: #e6e4f2
+    font-color: #f4f4f5
 }
 p {
     font-family: 'signo', 'sans-serif';
     font-style: 'normal';
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #f4f4f5;
 }
 footer {
     border-top: 1px solid #d5d5d5;
