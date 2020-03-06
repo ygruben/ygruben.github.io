@@ -29,11 +29,12 @@ a:hover {
 }
 
 h1 {
+    padding: 20px
     font-family: 'signo', 'sans-serif';
     font-weight: 400;
     font-style: 'normal';
     font-size: 6em;
-    color: #f4f4f5
+    font-color: #f4f4f5
 }
 p {
     font-family: 'signo', 'sans-serif';
