@@ -1,8 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-        <body style="background-color:#cb4447;">
-    </body>
+    background-color: #cb4447;
 }
 nav ul, footer ul {
     font-family:'signo', 'Sans-Serif';
