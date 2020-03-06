@@ -1,5 +1,5 @@
 body {
-    margin: 20px auto;
+    margin: 0px auto;
     width: 100%;
     background-color: #cb4447;
 }
@@ -7,35 +7,31 @@ body {
 nav ul, footer ul {
     font-family:'signo', 'Sans-Serif';
     font-weight: 'regular';
-    font-color: #f4f4f5
+    color: #cb4447
     }
 
 nav ul li, footer ul li {
     box-sizing: border-box;
     float: left;
-    }
-    
-Column{
-    width: 33.33%;
-    padding: 10px;
-    height: 100px;
-    background-color: #f4f4f5
+    background-color: #f4f4f5;
+    padding: 20px
     }
 
 a {
     text-decoration: none;
-    color: #999;
+    color: #cb4447;
 }
 
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-family: 'signo', 'sans-serif';
     font-weight: 400;
     font-style: 'normal';
     font-size: 6em;
-    font-color: #f4f4f5
+    color: #f4f4f5
 }
 p {
     font-family: 'signo', 'sans-serif';
@@ -44,6 +40,7 @@ p {
     line-height: 1.4em;
     color: #f4f4f5;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
