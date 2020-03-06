@@ -1,6 +1,6 @@
 body {
     margin: 20px auto;
-    width: 100%;
+    width: 90%;
     background-color: #cb4447;
 }
 
@@ -15,8 +15,8 @@ nav ul li, footer ul li {
     float: left;
     background-color: #f4f4f5;
     width: 33.33%;
-    padding: 10px;
-    height: 600px; 
+    padding: 15px;
+    height: 50px; 
 }
 
 a {
@@ -29,12 +29,11 @@ a:hover {
 }
 
 h1 {
-    padding: 20px
     font-family: 'signo', 'sans-serif';
     font-weight: 400;
     font-style: 'normal';
     font-size: 6em;
-    font-color: #f4f4f5
+    color: #f4f4f5
 }
 p {
     font-family: 'signo', 'sans-serif';
@@ -57,3 +56,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
