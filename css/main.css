@@ -8,7 +8,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: 'regular';
-    color: #c7281f
+    font-color: #c7281f
 }
 nav ul li, footer ul li {
     box-sizing: border-box;
@@ -31,7 +31,7 @@ h1 {
     font-weight: 400;
     font-style: 'normal';
     font-size: 6em;
-    color: #e6e4f2
+    font-color: #e6e4f2
 }
 p {
     font-family: 'signo', 'sans-serif';
