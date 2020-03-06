@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+        <body style="background-color:#cb4447;">
+    </body>
 }
 nav ul, footer ul {
     font-family:'signo', 'Sans-Serif';
@@ -23,8 +25,9 @@ a:hover {
 }
 h1 {
     font-family: 'signo', 'sans-serif';
-    font-weight: 800;
+    font-weight: 400;
     font-style: 'normal';
+    font-size: 6em;
 }
 p {
     font-family: 'signo', 'sans-serif';
