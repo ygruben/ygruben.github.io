@@ -1,6 +1,6 @@
 body {
     margin: 20px auto;
-    width: 80%;
+    width: 100%;
     background-color: #cb4447;
 }
 
@@ -19,7 +19,7 @@ Column{
     width: 33.33%;
     padding: 10px;
     height: 100px;
-    color: #f4f4f5
+    background-color: #f4f4f5
     }
 
 a {
