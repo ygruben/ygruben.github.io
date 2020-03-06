@@ -3,24 +3,30 @@ body {
     width: 70%;
     background-color: #cb4447;
 }
+
 nav ul, footer ul {
     font-family:'signo', 'Sans-Serif';
     font-weight: 'regular';
     font-color: #f4f4f5
-}
+    }
+
 nav ul li, footer ul li {
     box-sizing: border-box;
     float: left;
+    }
+    
+Column{
     width: 33.33%;
     padding: 10px;
     height: 100px;
     color: #f4f4f5
-}
-}
+    }
+
 a {
     text-decoration: none;
     color: #999;
 }
+
 a:hover {
     text-decoration: underline;
 }
