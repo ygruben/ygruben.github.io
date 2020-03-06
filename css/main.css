@@ -32,13 +32,13 @@ h1 {
     font-family: 'signo', 'sans-serif';
     font-weight: 400;
     font-style: 'normal';
-    font-size: 6em;
+    font-size: 10em;
     color: #f4f4f5
 }
 p {
     font-family: 'signo', 'sans-serif';
     font-style: 'normal';
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1.4em;
     color: #f4f4f5;
 }
