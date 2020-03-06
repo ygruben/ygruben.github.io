@@ -12,9 +12,9 @@ nav ul, footer ul {
 
 nav ul li, footer ul li {
     box-sizing: border-box;
-    float: left;
+    float: right;
     background-color: #f4f4f5;
-    width: 33.33%;
+    width: 33.3%;
     padding: 15px;
     height: 50px; 
 }
