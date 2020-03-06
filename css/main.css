@@ -8,10 +8,16 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: 'regular';
+    color: #c7281f
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+    box-sizing: border-box;
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 100px;
+    color: #f4f4f5
+}
 }
 a {
     text-decoration: none;
@@ -25,6 +31,7 @@ h1 {
     font-weight: 400;
     font-style: 'normal';
     font-size: 6em;
+    color: #e6e4f2
 }
 p {
     font-family: 'signo', 'sans-serif';
