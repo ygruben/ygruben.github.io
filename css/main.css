@@ -1,26 +1,27 @@
 body {
     margin:10px;
     width: 90%;
-    background-color: #EFEDED;
+    background-color: #cb4447;
 }
 
 nav ul, li, footer ul li{
     font-family:'signo', 'Sans-Serif';
     font-weight: 'regular';
-    color: #cb4447
+    color: #EFEDED
     }
 
 nav ul li, footer ul li {
     box-sizing: border-box;
-    float: right;
+    float: center;
     background-color: #F4F4F5;
-    width: 33.3%;
-    padding: 15px;
-    height: 50px; 
+    width: 30%;
+    padding: 10px;
+    height: 100px; 
 }
 
 a {
     text-decoration: none;
+    font-size: 2em;
     color: #cb4447;
 }
 
@@ -33,15 +34,15 @@ h1 {
     font-weight: 400;
     font-style: 'normal';
     font-size: 10em;
-    color: #F4F4F5
+    color: #EFEDED
 }
 
 p {
     font-family: 'signo', 'sans-serif';
     font-style: 'normal';
-    font-size: 1em;
+    font-size: 2em;
     line-height: 1.4em;
-    color: #cb4447;
+    color: #F4F4F5;
 }
 
 footer {
