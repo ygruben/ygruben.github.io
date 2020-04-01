@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="https://use.typekit.net/wct8nms.css">
+		<title>Blank</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+  <style>
+		body {
+			background-color: #479EBC;
+		}
+	</style>
+	<body>
+		<nav>			
+		<ul>
+  			<li><a href="ygruben.github.io/Blank.html">Blank</a></li>
+ 			<li><a href="ygruben.github.io/Submit.html">Submit</a></li>
+  			<li><a href="ygruben.github.io/Wear.html">Wear</a></li>
+		</ul>
+		</nav>
+        		<p>Wearing roots:Personalized scarves monogrammed with your first initial and designed with your chosen element.</p>
+	</body>
+</html>
