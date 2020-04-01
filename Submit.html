@@ -34,21 +34,47 @@
 			</div>
     		</ul>
 		</nav>
-		<div class="container">
-    		<div class="blurb">
-        		<h1>Submit.</h1>
-				<p>First name initial<br> _Y
-				<br> Current location<br> _Brooklyn, NY
-				<br> What is one element that makes you feel personally connected to your roots? 
-				(a smell, a sound, a place, a memory...)<br> _Kneading dough<br> Why is this 
-				element meaningful to your identity?<br> _I would watch my mother and my aunties 
+		<h1>Form Demo</h1>
+    		<form>
+      			<fieldset>
+        			<legend>Text input</legend>
+        			<p>
+          				<label>First name initial</label><br> _
+          				<input type = "Y"
+                 				id = "initial"
+                 			/>
+        			</p>
+        			<p>
+          				<label>Current location</label><br> _
+          				<input> type = "Prospect Park"
+                  				id = "location"
+                  			/>
+        			</p>
+        			<p>
+          				<label>What is one element that makes you feel personally connected to your roots? 
+				(a smell, a sound, a place, a memory...)</label><br> _
+          				<textarea> id = "Kneading dough"
+                  				id = "element"
+                  			/>
+        			</p>
+				<p>
+          				<label>Why is this element meaningful to your identity?</label><br> _
+          				<textarea> id = "element"
+                  				rows = "3"
+                				cols = "80">_I would watch my mother and my aunties 
 				spend hours kneading dough for khapse, momos, thukpa noodles, foods that made us 
 				happy. I was in love with their Tibetan arms, which made them look strong and 
-				powerful. Now when I knead dough I feel tough just like them.
-				<br> What is an image that symbolizes this element for you? (a photo, a scan, 
-				a screenshot, a scribble...)<br> 
-</p>
-    		</div><!-- /.blurb -->
-		</div><!-- /.container -->
+				powerful. Now when I knead dough I feel tough just like them.</textarea>
+                  			/>
+        			</p>
+				<p>
+          				<label>What is an image that symbolizes this element for you? (a photo, a scan, 
+				a screenshot, a scribble...)</label><br> _
+          				<textarea> id = "image"
+                  			/>
+        			</p>
+      			</fieldset>
+		</form>
+    	
 	</body>
 </html>
