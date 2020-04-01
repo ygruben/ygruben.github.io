@@ -1,28 +1,31 @@
 body {
-    margin:10px;
     width: 90%;
     background-color: #cb4447;
 }
 
-nav ul, li, footer ul li{
-    font-family:'signo', 'Sans-Serif';
-    font-weight: 'regular';
-    color: #EFEDED
-    }
-
-nav ul li, footer ul li {
+li{
     box-sizing: border-box;
-    float: center;
+    float: left;
     background-color: #F4F4F5;
     width: 30%;
-    padding: 10px;
-    height: 100px; 
+    display: inline;
+    text-align: center;
+    margin: 0%
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
 
 a {
+    font-family:'signo', 'Sans-Serif';
+    font-weight: 'regular';
+    color: #cb4447;
     text-decoration: none;
     font-size: 2em;
-    color: #cb4447;
 }
 
 a:hover {
@@ -35,6 +38,13 @@ h1 {
     font-style: 'normal';
     font-size: 10em;
     color: #EFEDED
+}
+
+h1{
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    padding: 0%
 }
 
 p {
