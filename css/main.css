@@ -58,29 +58,29 @@ p {
 label {
   font-family: 'signo', 'sans-serif';
   font-style: 'normal';
-  font-size: 5em;
-  line-height: 1.2em;
+  font-size: 50pt;
+  line-height: 60pt;
   color: #F4F4F5; 
 }
 
 #parenthesis {
    color: #B9CBD5;
    font-family: 'signo', 'sans-serif';
-   font-style: 'normal';
+   font-size: 50pt;
 }
 
 input {
     font-family: 'JHA';
     font-style: 'normal';
-    font-size: 2em;
-    line-height: 4em;
+    font-size: 20pt;
+    line-height: 60pt;
     color: #F4F4F5;
 }
     
 input {
   width: 100%;
   padding: 0px 20px;
-  top-margin: 5px 0;
+  top-margin: 5px;
   box-sizing: border-box;
   border: none;
   background-color: #00A25E
