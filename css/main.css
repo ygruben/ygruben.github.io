@@ -63,21 +63,20 @@ input {
     color: #F4F4F5;
 }
     
-input[type=text] {
+input {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
   border: none;
-  border-bottom: 2px #cb4447
-  color: #00A25E
+  background-color: #00A25E
 }
 
 label {
   font-family: 'signo', 'sans-serif';
   font-style: 'normal';
   font-size: 3em;
-  line-height: 1.5em;
+  line-height: 2em;
   color: #F4F4F5; 
 }
 
