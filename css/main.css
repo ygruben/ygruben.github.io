@@ -81,8 +81,36 @@ label {
 }
 
 @font-face {
-  	font-family: 'JHA';
-  	src: url(JHA - TimesNow-SemiLight.otf);
+  font-family: 'JHA';
+  src: url(JHA - TimesNow-SemiLight.otf);
 }
 
 
+img src= 'mountain scarf' {
+  width: auto
+  height: auto
+  align: center
+}
+
+h2 {
+    font-family: 'signo', 'sans-serif';
+    font-weight: 400;
+    font-style: 'normal';
+    font-size: 10em;
+    color: #2C469D
+}
+
+h2{
+    display: block;
+    text-align: left;
+    text-decoration: none;
+    padding: 0%
+}
+
+h3 {
+    font-family: 'signo', 'sans-serif';
+    font-weight: 400;
+    font-style: 'normal';
+    font-size: 10em;
+    color: #F4F4F5
+}
