@@ -58,15 +58,15 @@ p {
 input {
     font-family: 'JHA';
     font-style: 'normal';
-    font-size: 3em;
-    line-height: 1.5em;
+    font-size: 2em;
+    line-height: 4em;
     color: #F4F4F5;
 }
     
 input {
   width: 100%;
-  padding: 12px 20px;
-  margin: 8px 0;
+  padding: 0px 20px;
+  top-margin: 5px 0;
   box-sizing: border-box;
   border: none;
   background-color: #00A25E
@@ -75,8 +75,8 @@ input {
 label {
   font-family: 'signo', 'sans-serif';
   font-style: 'normal';
-  font-size: 7em;
-  line-height: 2em;
+  font-size: 5em;
+  line-height: 1.2em;
   color: #F4F4F5; 
 }
 
