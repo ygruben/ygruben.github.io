@@ -55,11 +55,6 @@ p {
     color: #F4F4F5;
 }
 
-footer {
-    border-top: 1px solid #cb4447;
-    font-size: .8em;
-}
-
 #answer {
     font-family: 'signo', 'sans-serif';
     font-style: 'normal';
