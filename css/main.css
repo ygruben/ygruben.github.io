@@ -78,7 +78,6 @@ input [type=text]{
     color: #F4F4F5;
 }
     
-
 input[type=text] {
   width: 100%;
   padding: 12px 20px;
@@ -87,5 +86,13 @@ input[type=text] {
   border: none;
   border-bottom: 2px solid red;
   background-color: #00A25E
+}
+
+label {
+  font-family: 'signo', 'sans-serif';
+  font-style: 'normal';
+  font-size: 2em;
+  line-height: 1.4em;
+  color: #F4F4F5; 
 }
 
