@@ -56,7 +56,7 @@ p {
 }
 
 input {
-    font-family: JHA
+    font-family: 'JHA';
     font-style: 'normal';
     font-size: 3em;
     line-height: 1.5em;
@@ -70,7 +70,7 @@ input[type=text] {
   box-sizing: border-box;
   border: none;
   border-bottom: 2px #cb4447
-  background-color: #00A25E
+  color: #00A25E
 }
 
 label {
@@ -82,7 +82,7 @@ label {
 }
 
 @font-face {
-  	font-family: JHA;
+  	font-family: 'JHA';
   	src: url(JHA - TimesNow-SemiLight.otf);
 }
 
