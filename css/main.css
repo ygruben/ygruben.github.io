@@ -55,26 +55,11 @@ p {
     color: #F4F4F5;
 }
 
-#answer {
-    font-family: 'signo', 'sans-serif';
-    font-style: 'normal';
-    font-size: 1em;
-    line-height: 1.4em;
-    color: #F4F4F5;
-    border: none;
-    border-bottom: 2px solid red;
-    background-color: #00A25E
-    width: 100%;
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-}
-
 input {
-    font-family: 'JHA', 'sans-serif';
+    font-family: JHA
     font-style: 'normal';
-    font-size: 1em;
-    line-height: 1.4em;
+    font-size: 3em;
+    line-height: 1.5em;
     color: #F4F4F5;
 }
     
@@ -84,15 +69,21 @@ input[type=text] {
   margin: 8px 0;
   box-sizing: border-box;
   border: none;
-  border-bottom: 2px solid red;
+  border-bottom: 2px #cb4447
   background-color: #00A25E
 }
 
 label {
   font-family: 'signo', 'sans-serif';
   font-style: 'normal';
-  font-size: 2em;
-  line-height: 1.4em;
+  font-size: 3em;
+  line-height: 1.5em;
   color: #F4F4F5; 
 }
+
+@font-face {
+  	font-family: JHA;
+  	src: url(JHA - TimesNow-SemiLight.otf);
+}
+
 
