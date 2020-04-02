@@ -101,6 +101,7 @@ h2 {
     margin: 0;
     list-style-type: none;
     overflow: hidden;
+    outline-style: solid #F4F4F5;
 }
 
 h2 {
