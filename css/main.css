@@ -87,40 +87,33 @@ label {
 
 
 img src= 'mountain scarf' {
-  width: auto
-  height: auto
+  width: 60%
+  height: 60%
   align: center
 }
 
-h2 {
-    font-family: 'signo', 'sans-serif';
-    font-weight: 400;
-    font-style: 'normal';
-    font-size: 10em;
-    color: #2C469D
-}
-
-h2{
+title {
     display: block;
     text-align: left;
     text-decoration: none;
     padding: 0%
 }
 
-h3 {
+h2 {
     font-family: 'signo', 'sans-serif';
     font-weight: 400;
     font-style: 'normal';
-    font-size: 10em;
-    color: #4A4B4C
+    font-size: 8em;
+    color: #2C469D
 }
 
-p1 {
-    font-family: 'signo', 'sans-serif';
+h3 {
+    font-family: 'JHA';
+    font-weight: 400;
     font-style: 'normal';
-    font-size: 2em;
-    line-height: 1.4em;
-    color: #4A4B4C;
+    font-size: 8em;
+     line-height: 1.4em;
+    color: #4A4B4C
 }
 
 div {
