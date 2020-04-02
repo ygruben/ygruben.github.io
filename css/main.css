@@ -70,8 +70,8 @@ p {
     box-sizing: border-box;
 }
 
-input [type=text]{
-    font-family: 'signo', 'sans-serif';
+input {
+    font-family: 'JHA', 'sans-serif';
     font-style: 'normal';
     font-size: 1em;
     line-height: 1.4em;
