@@ -68,3 +68,19 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+#answer {
+    font-family: 'signo', 'sans-serif';
+    font-style: 'normal';
+    font-size: 1em;
+    line-height: 1.4em;
+    color: #F4F4F5;
+    border: none;
+    border-bottom: 2px solid red;
+    background-color: #00A25E
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
