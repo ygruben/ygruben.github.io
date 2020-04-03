@@ -48,7 +48,7 @@ h1{
 }
 
 p {
-    font-family: 'signo';
+    font-family: 'signo', 'light';
     font-style: 'light';
     font-size: 2em;
     line-height: 1.4em;
