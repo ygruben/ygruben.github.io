@@ -77,13 +77,14 @@ h2 {
 }
 
 #scarf {
-    font-family: signo, light;
+    font-family: signo;
     font-weight: normal;
     font-size: 3.5em;
     color: #479ebc
 
 p {
-    font-family: jha, serif;
+    font-family: signo;
+    font-weight: light;
     line-height: 1.4em;
 }
 
