@@ -33,9 +33,9 @@ a:hover {
 }
 
 h1 {
-    font-family: 'signo', 'sans-serif';
+    font-family: 'signo';
     font-weight: 400;
-    font-style: 'normal';
+    font-style: 'regular';
     font-size: 10em;
     color: #EFEDED
 }
@@ -48,8 +48,8 @@ h1{
 }
 
 p {
-    font-family: 'JHA';
-    font-style: 'normal';
+    font-family: 'signo';
+    font-style: 'light';
     font-size: 2em;
     line-height: 1.4em;
     color: #F4F4F5;
