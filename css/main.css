@@ -14,7 +14,7 @@
 body {
     width: 100vw;
     display: inline-block;
-    background-color: #cb4447;
+    background-color: #479ebc;
     font-family: signo, sans-serif;
     font-style: normal;
     font-size: 32px;
@@ -145,7 +145,7 @@ input[type=text], textarea {
     padding: 0px 20px;
     top-margin: 5px;
     border: none;
-    background: transparent;   
+    background: transparent;
     font-family: jha;
     font-size: 1em;
     line-height: 1.4em;
