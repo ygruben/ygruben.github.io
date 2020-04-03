@@ -40,7 +40,7 @@ h1 {
     color: #EFEDED
 }
 
-h1{
+h1 {
     display: block;
     text-align: left;
     text-decoration: none;
@@ -48,15 +48,15 @@ h1{
 }
 
 p {
-    font-family: 'signo', 'light';
-    font-style: 'light';
+    font-family: 'signo-light';
+    font-style: 'normal';
     font-size: 2em;
     line-height: 1.4em;
     color: #F4F4F5;
 }
 
 label {
-  font-family: 'signo', 'sans-serif';
+  font-family: 'signo';
   font-style: 'normal';
   font-size: 50pt;
   line-height: 60pt;
