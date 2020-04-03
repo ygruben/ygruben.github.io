@@ -76,15 +76,9 @@ h2 {
     color: #479ebc
 }
 
-#scarf {
-    font-family: signo;
-    font-weight: normal;
-    font-size: 3.5em;
-    color: #479ebc
-
 p {
-    font-family: signo;
-    font-weight: light;
+    font-family: jha;
+    font-weight: normal;
     line-height: 1.4em;
 }
 
