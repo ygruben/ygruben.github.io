@@ -70,11 +70,17 @@ h2 {
     padding: 0px 20px;
     display: block;
     background-color: #f4f4f5;
-    font-family: jha;
+    font-family: signo;
     font-weight: normal;
     font-size: 3.5em;
     color: #479ebc
 }
+
+#scarf {
+    font-family: signo, light;
+    font-weight: normal;
+    font-size: 3.5em;
+    color: #479ebc
 
 p {
     font-family: jha, serif;
