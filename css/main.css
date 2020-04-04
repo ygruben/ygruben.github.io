@@ -62,7 +62,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    #color: #479ebc;
 }
 
 h1 {
