@@ -1,31 +1,39 @@
 /*** Global ***/
 
+/*** Global ***/
+
 @font-face {
   font-family: 'jha';
   font-weight: normal;
   src: url(../assets/fonts/jha.otf);
 }
 
+@font-face {
+  font-family: 'tex';
+  font-weight: normal;
+  src: url(../assets/fonts/texgyreheroscn/texgyreheros-regular.otf);
+}
+
 * {
-    margin: 0;
+    margin: 10;
     padding: 0;
 }
 
 body {
     width: 100vw;
     display: inline-block;
-    background-color: #479ebc;
-    font-family: signo, sans-serif;
+    background-color: #4AA7BC;
+    font-family: tex, sans-serif;
     font-style: normal;
     font-size: 32px;
-    color: #f4f4f5;
+    color: #231F20;
     text-decoration: none;
     cursor: url(../assets/images/cursor.cur), auto;
 }
 
 main {
     position: absolute;
-    top: 2em;
+    top: 5em;
     width: 100vw;
 }
 
@@ -44,7 +52,7 @@ nav {
 li {
     width: 33.33vw;
     float: left;
-    background-color: #f4f4f5;
+    background-color: #4AA7BC;
     text-align: center;
 }
 
@@ -66,17 +74,18 @@ a:hover {
 }
 
 h1 {
+    font-family: tex
     font-weight: normal;
-    font-size: 5em;
+    font-size: 4em;
 }
 
 h2 {
     padding: 0px 20px;
     display: block;
     background-color: #f4f4f5;
-    font-family: signo;
+    font-family: tex;
     font-weight: normal;
-    font-size: 3.5em;
+    font-size: 4em;
     color: #479ebc
 }
 
@@ -103,14 +112,14 @@ mark {
 }
 
 .row {
-    border-top: 1px solid white;
+    border-top: 1px solid black;
     display: flex;
 }
 
 .cell {
     height: 16.66vw;
     width: 16.66vw;
-    border-right: white 1px solid;
+    border-right: black 1px solid;
     background-size: cover;
     background-position: center;
 }
@@ -140,6 +149,7 @@ form {
 label {
     display: block;
     padding-bottom: 20px;
+    font-family: tex;
     font-size: 1.6em;
     line-height: 1.2em;
 }
@@ -167,7 +177,7 @@ input[type=file] {
 
 input[type=submit] {
     display: inline-block;
-    font-family: signo, sans-serif;
+    font-family: jha, sans-serif;
     font-size: 1.6em;
     text-align: left;
 }
