@@ -89,14 +89,15 @@ h2 {
 }
 
 p {
-    font-family: jha;
+    font-family: tex;
     font-weight: normal;
     line-height: 1.4em;
 }
 
 mark {
     background: inherit;
-    color: #b9cbd5;
+    color: #002EAF;
+    font-family: jha;
 }
 
 ::selection {
