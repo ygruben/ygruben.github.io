@@ -22,7 +22,7 @@
 body {
     width: 100vw;
     display: inline-block;
-    background-image: url(../assets/images/noise.png)
+    background-color: #479EBC;
     font-family: tex, sans-serif;
     font-style: normal;
     font-size: 32px;
