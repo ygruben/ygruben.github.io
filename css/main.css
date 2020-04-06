@@ -86,23 +86,24 @@ a:hover {
 }
 
 h1 {
-    font-family: ogg;
+    font-family: times;
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 1em;
     color: #2d3da7;
 }
 
 h2 {
     padding: 0px 20px;
     display: block;
-    font-family: ogg;
+    font-family: times;
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 1em;
     color: #002EAF;
 }
 
 p {
     font-family: tex;
+    font-size: 1em;
     font-weight: normal;
     line-height: 1.5em;
     color: #58595B;
