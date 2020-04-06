@@ -111,8 +111,8 @@ p {
 
 mark {
     background: inherit;
-    color: #BCBEC0;
-    font-family: tex;
+    color: #2B3990;
+    font-family: times;
 }
 
 ::selection {
