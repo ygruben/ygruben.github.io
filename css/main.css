@@ -14,6 +14,18 @@
   src: url(../assets/fonts/texgyreheroscn/texgyreheroscn-regular.otf);
 }
 
+@font-face {
+  font-family: 'ogg';
+  font-weight: normal;
+  src: url(../assets/fonts/Ogg-Roman.otf);
+}
+
+@font-face {
+  font-family: 'times';
+  font-weight: normal;
+  src: url(../assets/fonts/TimesTenLTStd-Roman.otf);
+}
+
 * {
     margin: 10;
     padding: 0;
