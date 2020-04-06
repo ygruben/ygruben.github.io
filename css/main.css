@@ -52,6 +52,7 @@ main {
 .text-container {
     margin: 0px 20px;
     max-width: 900px;
+    text-align: center;
 }
 
 nav {
@@ -160,24 +161,26 @@ form {
 }
 
 label {
-    display: block;
+    display: grid;
     padding-bottom: 20px;
     font-family: tex;
-    font-size: 2em;
-    line-height: 1.2em;
-    color: #7F7F7F;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #231f20;
+    max-width: 1500px;
 }
 
 input[type=text], textarea {
-    width: 100%;
+    width: 90%;
     padding: 0px 20px;
     top-margin: 5px;
     border: none;
     background: transparent;
-    font-family: jha;
+    font-family: times;
     font-size: 1em;
-    line-height: 1.4em;
+    line-height: 1.5em;
     color: #2B3990;
+    text-align: center;
 }
 
 textarea {
@@ -185,15 +188,14 @@ textarea {
 }
 
 input[type=file] {
-    height: 2em;
+    height: 1em;
     align-content: bottom;
 }
 
 input[type=submit] {
     display: inline-block;
     font-family: ogg;
-    font-size: 2em;
-    text-align: left;
+    font-size: 1em;
 }
 
 .form-wrapper {
