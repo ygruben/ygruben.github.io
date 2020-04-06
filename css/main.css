@@ -60,7 +60,7 @@ ul {
 }
 
 a {
-    color: #cb4447;
+    color: #d8ddff;
     text-decoration: none;
 }
 
@@ -76,6 +76,7 @@ h1 {
     font-family: tex
     font-weight: normal;
     font-size: 4em;
+    color: #2d3da7;
 }
 
 h2 {
