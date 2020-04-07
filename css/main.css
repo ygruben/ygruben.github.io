@@ -115,6 +115,10 @@ mark {
     font-family: times;
 }
 
+center [
+  text-align: center;
+]
+
 ::selection {
     background: rgba(255, 255, 255, .1);
 }
