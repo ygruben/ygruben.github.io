@@ -88,8 +88,8 @@ a:hover {
 h1 {
     font-family: timesten;
     font-weight: normal;
-    font-size: 1em;
-    color: #2d3da7;
+    font-size: 1.4em;
+    color: #231f20;
 }
 
 h2 {
@@ -97,8 +97,8 @@ h2 {
     display: block;
     font-family: timesten;
     font-weight: normal;
-    font-size: 1em;
-    color: #002EAF;
+    font-size: 1.4em;
+    color: #2B3990;
 }
 
 p {
@@ -107,6 +107,10 @@ p {
     font-weight: normal;
     line-height: 1.5em;
     color: #231f20;
+}
+
+.sentence {
+    text-align: right;
 }
 
 mark {
