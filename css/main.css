@@ -26,6 +26,12 @@
   src: url(../assets/fonts/TimesTenLTStd-Roman.otf);
 }
 
+@font-face {
+  font-family: 'questa';
+  font-weight: normal;
+  src: url(https://use.typekit.net/wct8nms.css);
+}
+
 * {
     margin: 10;
     padding: 0;
@@ -52,7 +58,7 @@ main {
 .text-container {
     margin: 0px 20px;
     max-width: 900px;
-    text-align: center;
+    text-align: left;
 }
 
 nav {
@@ -75,6 +81,7 @@ ul {
 a {
     color: #EF3E23;
     text-decoration: none;
+    font-size: .7em;
 }
 
 .logo {
@@ -95,7 +102,7 @@ h1 {
 h2 {
     padding: 0px 20px;
     display: block;
-    font-family: timesten;
+    font-family: ogg;
     font-weight: normal;
     font-size: 1.4em;
     color: #2B3990;
@@ -103,7 +110,7 @@ h2 {
 
 p {
     font-family: tex;
-    font-size: 1em;
+    font-size: .7em;
     font-weight: normal;
     line-height: 1.5em;
     color: #231f20;
@@ -116,7 +123,7 @@ p {
 mark {
     background: inherit;
     color: #6D6E71;
-    font-family: timesten;
+    font-family: ogg;
 }
 
 center {
