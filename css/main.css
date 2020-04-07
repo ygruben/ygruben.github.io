@@ -21,7 +21,7 @@
 }
 
 @font-face {
-  font-family: 'times';
+  font-family: 'timesten';
   font-weight: normal;
   src: url(../assets/fonts/TimesTenLTStd-Roman.otf);
 }
@@ -85,7 +85,7 @@ a:hover {
 }
 
 h1 {
-    font-family: times;
+    font-family: timesten;
     font-weight: normal;
     font-size: 1em;
     color: #2d3da7;
@@ -94,7 +94,7 @@ h1 {
 h2 {
     padding: 0px 20px;
     display: block;
-    font-family: times;
+    font-family: timesten;
     font-weight: normal;
     font-size: 1em;
     color: #002EAF;
@@ -111,7 +111,7 @@ p {
 mark {
     background: inherit;
     color: #2B3990;
-    font-family: times;
+    font-family: timesten;
 }
 
 center [
@@ -165,24 +165,24 @@ form {
 }
 
 label {
-    display: grid;
+    display: block;
     padding-bottom: 20px;
     font-family: tex;
-    font-size: 1em;
-    line-height: 1.5em;
+    font-size: 1.4em;
+    line-height: 1em;
     color: #231f20;
-    max-width: 1500px;
+    max-width: 900px;
 }
 
 input[type=text], textarea {
     width: 90%;
     padding: 0px 20px;
-    top-margin: 5px;
+    top-margin: 1px;
     border: none;
     background: transparent;
-    font-family: times;
-    font-size: 1em;
-    line-height: 1.5em;
+    font-family: timesten;
+    font-size: 1.4em;
+    line-height: 1em;
     color: #2B3990;
     text-align: center;
 }
@@ -192,14 +192,14 @@ textarea {
 }
 
 input[type=file] {
-    height: 1em;
+    height: 3em;
     align-content: bottom;
 }
 
 input[type=submit] {
     display: inline-block;
-    font-family: ogg;
-    font-size: 1em;
+    font-family: timesten;
+    font-size: 1.4em;
 }
 
 .form-wrapper {
