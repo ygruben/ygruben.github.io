@@ -80,28 +80,30 @@ a:hover {
 }
 
 h1 {
-    font-family: tex;
-    font-weight: 100;
+    font-family: questa-sans, san-serif;
+    font-weight: 300;
     font-style: normal;
     font-size: 1.4em;
     line-height: 1.1em;
     color: #231f20;
+    text-align: center;
 }
 
 h2 {
     padding: 0px 20px;
     display: block;
-    font-family: timesten;
-    font-weight: 300;
-    font-style: normal;
+    font-family: starling, serif;;
+    font-weight: 100;
+    font-style: italic;
     font-size: 1.4em;
     margin-top: -.6em;
-    color: #3500d8;
+    color: #0023ff;
+    text-align: center;
 }
 
 p {
-    font-family: tex;
-    font-weight: 100;
+    font-family: questa-sans, san-serif;
+    font-weight: 300;
     font-size: .7em;
     font-style: normal;
     line-height: 1.5em;
