@@ -86,7 +86,7 @@ a:hover {
 }
 
 h1 {
-    font-family: timesten;
+    font-family: tex;
     font-weight: normal;
     font-size: 1.4em;
     color: #231f20;
@@ -110,7 +110,7 @@ p {
 }
 
 .sentence {
-    text-align: right;
+    word-spacing: 10px
 }
 
 mark {
