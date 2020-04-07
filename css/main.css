@@ -74,15 +74,14 @@ ul {
 
 a {
     color: #EF3E23;
-    text-decoration: none;
 }
 
 .logo {
-    width: 13%;
+    width: 16%;
 }
 
 a:hover {
-    #color: #479ebc;
+    color: #479ebc;
 }
 
 h1 {
