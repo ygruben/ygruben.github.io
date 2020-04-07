@@ -26,7 +26,7 @@
 body {
     width: 100vw;
     display: inline-block;
-    background-color: #e6e6e6;
+    background-color: #0543e6;
     font-family: questa-sans, sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -85,19 +85,19 @@ h1 {
     font-style: normal;
     font-size: 1.4em;
     line-height: 1.1em;
-    color: #231f20;
+    color: #3f84ff;
     text-align: center;
 }
 
 h2 {
     padding: 0px 20px;
     display: block;
-    font-family: starling, serif;;
-    font-weight: 100;
-    font-style: italic;
+    font-family: ogg, serif;;
+    font-weight: 300;
+    font-style: normal;
     font-size: 1.4em;
     margin-top: -.6em;
-    color: #0023ff;
+    color: #c0c3ff;
     text-align: center;
 }
 
@@ -107,7 +107,7 @@ p {
     font-size: .7em;
     font-style: normal;
     line-height: 1.5em;
-    color: #231f20;
+    color: #EF3E23;
 }
 
 .sentence {
@@ -116,8 +116,8 @@ p {
 
 mark {
     background: inherit;
-    color: #6D6E71;
-    font-family: timesten;
+    color: #a0a8ff;
+    font-family: ogg;
 }
 
 center {
@@ -174,11 +174,14 @@ form {
 label {
     display: block;
     padding-bottom: 20px;
-    font-family: ogg;
+    font-family: ogg, serif;
+    font-weight: 300;
+    font-style: normal;
     font-size: 2.5em;
     line-height: 1em;
-    color: #231f20;
+    color: #d8ddff;
     max-width: 900px;
+    text-align: center;
 }
 
 input[type=text], textarea {
@@ -187,13 +190,13 @@ input[type=text], textarea {
     top-margin: 1px;
     border: none;
     background: transparent;
-    font-family: neue-haas-unica, sans-serif;
+    font-family: questa-sans, san-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: .7em;
+    font-size: 1em;
     line-height: 1em;
-    color: #2B3990;
-    text-align: left;
+    color: #5d76ff;
+    text-align: center;
 }
 
 textarea {
@@ -215,6 +218,7 @@ input[type=submit] {
 
 .form-wrapper {
     margin-bottom: 2em;
+    text-align: center;
 }
 
 /*** Wear ***/
