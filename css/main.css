@@ -80,9 +80,9 @@ a:hover {
 }
 
 h1 {
-    font-family: questa-sans, sans-serif;
+    font-family: neue-haas-unica, sans-serif;
     font-weight: 300;
-    font-weight: normal;
+    font-style: normal;
     font-size: 1.4em;
     color: #231f20;
 }
@@ -90,17 +90,17 @@ h1 {
 h2 {
     padding: 0px 20px;
     display: block;
-    font-family: ogg;
-    font-weight: normal;
+    font-family: timesten;
+    font-style: normal;
     font-size: 1.4em;
     color: #2B3990;
 }
 
 p {
-    font-family: questa-sans, sans-serif;
+    font-family: neue-haas-unica, sans-serif;
     font-weight: 300;
     font-size: .7em;
-    font-weight: normal;
+    font-style: normal;
     line-height: 1.5em;
     color: #231f20;
 }
@@ -112,7 +112,7 @@ p {
 mark {
     background: inherit;
     color: #6D6E71;
-    font-family: ogg;
+    font-family: timesten;
 }
 
 center {
@@ -182,8 +182,9 @@ input[type=text], textarea {
     top-margin: 1px;
     border: none;
     background: transparent;
-    font-family: questa-sans, sans-serif;
+    font-family: neue-haas-unica, sans-serif;
     font-weight: 300;
+    font-style: normal;
     font-size: .7em;
     line-height: 1em;
     color: #2B3990;
@@ -201,8 +202,9 @@ input[type=file] {
 
 input[type=submit] {
     display: inline-block;
-    font-family: questa-sans, sans-serif;
+    font-family: neue-haas-unica, sans-serif;
     font-weight: 300;
+    font-style: normal;
     font-size: .7em;
 }
 
