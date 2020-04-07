@@ -106,7 +106,7 @@ p {
     font-size: 1em;
     font-weight: normal;
     line-height: 1.5em;
-    color: #58595B;
+    color: #231f20;
 }
 
 mark {
@@ -115,9 +115,10 @@ mark {
     font-family: timesten;
 }
 
-center [
-  text-align: center;
-]
+center {
+    text-align: center;
+}
+
 
 ::selection {
     background: rgba(255, 255, 255, .1);
