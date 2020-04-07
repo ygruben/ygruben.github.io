@@ -26,7 +26,7 @@
 body {
     width: 100vw;
     display: inline-block;
-    background-color: #EAEAEA;
+    background-color: #e6e6e6;
     font-family: questa-sans, sans-serif;
     font-weight: 300;
     font-style: normal;
@@ -80,10 +80,11 @@ a:hover {
 }
 
 h1 {
-    font-family: neue-haas-unica, sans-serif;
-    font-weight: 300;
+    font-family: tex;
+    font-weight: 100;
     font-style: normal;
     font-size: 1.4em;
+    line-height: 1.1em;
     color: #231f20;
 }
 
@@ -91,14 +92,16 @@ h2 {
     padding: 0px 20px;
     display: block;
     font-family: timesten;
+    font-weight: 300;
     font-style: normal;
     font-size: 1.4em;
-    color: #2B3990;
+    margin-top: -.6em;
+    color: #3500d8;
 }
 
 p {
-    font-family: neue-haas-unica, sans-serif;
-    font-weight: 300;
+    font-family: tex;
+    font-weight: 100;
     font-size: .7em;
     font-style: normal;
     line-height: 1.5em;
@@ -169,8 +172,7 @@ form {
 label {
     display: block;
     padding-bottom: 20px;
-    font-family: timesten;
-    font-style: normal;
+    font-family: ogg;
     font-size: 2.5em;
     line-height: 1em;
     color: #231f20;
