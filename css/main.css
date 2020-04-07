@@ -74,7 +74,7 @@ ul {
 
 a {
     color: #EF3E23;
-    text-decoration: normal;
+    text-decoration: none;
 }
 
 .logo {
@@ -111,7 +111,7 @@ p {
 
 mark {
     background: inherit;
-    color: #2B3990;
+    color: #6D6E71;
     font-family: timesten;
 }
 
@@ -168,7 +168,7 @@ form {
 label {
     display: block;
     padding-bottom: 20px;
-    font-family: tex;
+    font-family: timesten;
     font-size: 1.4em;
     line-height: 1em;
     color: #231f20;
