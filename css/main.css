@@ -95,15 +95,14 @@ h1 {
 }
 
 h2 {
-    padding: 0px 20px;
     display: block;
-    font-family: timesten, serif;;
+    font-family: standard, san-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 2.5em;
-    line-height: 1em;
+    font-size: 1.3em;
+    line-height: 1.2em;
     margin-top: -.6em;
-    color: #2b3990;
+    color: #231f20;
 }
 
 p {
@@ -123,7 +122,6 @@ mark {
     background: inherit;
     color: #2e4bff;
     font-family: jha;
-    font-size: 1.2em;
 }
 
 center {
@@ -180,7 +178,7 @@ form {
 label {
     display: block;
     padding-bottom: 20px;
-    font-family: timesten, serif;
+    font-family: standard, san-serif;
     font-weight: 300;
     font-style: normal;
     font-size: 2.5em;
@@ -195,7 +193,7 @@ input[type=text], textarea {
     top-margin: 1px;
     border: none;
     background: transparent;
-    font-family: standard, san-serif;
+    font-family: jha;
     font-weight: 300;
     font-style: normal;
     font-size: 2.5em;
