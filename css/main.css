@@ -120,8 +120,8 @@ p {
 
 mark {
     background: inherit;
-    color: #2e4bff;
-    font-family: jha;
+    color: #4754ab;
+    font-family: timesten;
 }
 
 center {
@@ -193,12 +193,12 @@ input[type=text], textarea {
     top-margin: 1px;
     border: none;
     background: transparent;
-    font-family: jha;
+    font-family: timesten;
     font-weight: 300;
     font-style: normal;
     font-size: 2.5em;
     line-height: 1em;
-    color: #5d76ff;
+    color: #4754ab;
 }
 
 textarea {
@@ -212,7 +212,7 @@ input[type=file] {
 
 input[type=submit] {
     display: inline-block;
-    font-family: jha;
+    font-family: timesten;
     font-weight: 300;
     font-style: normal;
     font-size: .7em;
